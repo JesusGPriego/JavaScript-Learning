@@ -1,0 +1,53 @@
+:root {
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient(
+      rgba(233, 233, 233, 0.7),
+      rgba(233, 233, 233, 0.7)
+    ),
+    url("../img/platform.jpg") center/cover no-repeat;
+  /* Photo by daniel sperindeo from Pexels */
+  height: 100vh;
+  width: 100vw;
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: bold;
+  width: 200px;
+  margin: 5px auto;
+  display: block;
+  transition: transform ease-in-out;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+#increment-btn {
+  background-color: darkred;
+}
+
+#save-btn {
+  background: darkgreen;
+}
+
+#save-el {
+  max-width: 500px;
+  margin: 25px auto;
+}
