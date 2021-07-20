@@ -2,6 +2,10 @@
 
 In this repository Ill be uloading what I learn about JS.
 
+## Disclaimer:
+
+Css in this projects is provide as part of the course. It doesn't mean I can't do it myself, but I wanted to make this clear.
+
 # Passenge-Counter:
 
 This is a tiny app that increments the value of an element everytime a button is clicked. It also lets the user "save" a value, and shows the lasts registers.
@@ -12,3 +16,7 @@ To make this I've learnt:
 - basic var definitions
 - Element acces by Id
 - Element content manipulation
+
+# Color-flipper:
+
+Simple app that changes body background color when the button is clicked. It also shows what color is set.
