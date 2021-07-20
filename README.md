@@ -20,3 +20,8 @@ To make this I've learnt:
 # Color-flipper:
 
 Simple app that changes body background color when the button is clicked. It also shows what color is set.
+
+# Reviews
+
+Simple app that display an hypothetic user card with some user data such as photo, job and so on.
+This content changes dinamically as the user click on the buttons.
