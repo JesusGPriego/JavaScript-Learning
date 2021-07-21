@@ -25,3 +25,7 @@ Simple app that changes body background color when the button is clicked. It als
 
 Simple app that display an hypothetic user card with some user data such as photo, job and so on.
 This content changes dinamically as the user click on the buttons.
+
+# Navbar
+
+Simple navbar toggle example using JS, by adding or removing class to the element so it can be shown or hidden.
