@@ -33,3 +33,7 @@ Simple navbar toggle example using JS, by adding or removing class to the elemen
 # Sidebar
 
 Simple sidebar toggle example using JS,by adding or removing clas to the element.
+
+# Modal Project
+
+Simple modal window popup using JS by adding class to an specific element which originally is hidden, but shown by addin' the class
