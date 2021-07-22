@@ -37,3 +37,7 @@ Simple sidebar toggle example using JS,by adding or removing clas to the element
 # Modal Project
 
 Simple modal window popup using JS by adding class to an specific element which originally is hidden, but shown by addin' the class
+
+# Questions
+
+Simple "card" toggler. When a button is clicked, the specific answer is displayed. If clicked on a "+" when an answer is being showed, that is closed, and the new one is showed.
