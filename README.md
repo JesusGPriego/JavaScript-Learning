@@ -46,3 +46,7 @@ Simple "card" toggler. When a button is clicked, the specific answer is displaye
 
 Elements filter example by using js and filtering objects by its elements.
 Dynamic category buttons generation based on items' categories.
+
+# Video
+
+Simple video "background" whose controls are not accesible. Can be paused or resumed playin' with a button in the overlay using JS.
