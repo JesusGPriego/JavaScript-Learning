@@ -41,3 +41,8 @@ Simple modal window popup using JS by adding class to an specific element which 
 # Questions
 
 Simple "card" toggler. When a button is clicked, the specific answer is displayed. If clicked on a "+" when an answer is being showed, that is closed, and the new one is showed.
+
+# Menu
+
+Elements filter example by using js and filtering objects by its elements.
+Dynamic category buttons generation based on items' categories.
