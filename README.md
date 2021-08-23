@@ -50,3 +50,8 @@ Dynamic category buttons generation based on items' categories.
 # Video
 
 Simple video "background" whose controls are not accesible. Can be paused or resumed playin' with a button in the overlay using JS.
+
+# Scroll
+
+Responsive web sample. Scroll is always smooth and get the user exactly where they wanted to be.
+This is possible by using methods such as getBoundingClientRect() and pageYOffset.
